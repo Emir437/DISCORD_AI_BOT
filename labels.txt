@@ -1,0 +1,8 @@
+0 3x3
+1 2x2
+2 4x4
+3 pyraminx
+4 sqewb
+5 megaminx
+6 kilominx
+7 mirror

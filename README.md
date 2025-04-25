@@ -1,4 +1,5 @@
 Rubik Küp Tanıyıcı Yapay Zeka
+
 Bu proje, çeşitli Rubik küplerini ayırt edebilen bir yapay zeka uygulamasıdır.
 
 Özellikler
